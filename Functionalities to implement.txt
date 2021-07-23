@@ -1,5 +1,5 @@
 (1) Display number of lives and score - DONE 
-(2) Powerups and boosters 
+(2) Powerups and boosters - DONE
 (3) Enemy shooting
-(4) Shield
+(4) Shield - DONE
 (6) Explosion animation
