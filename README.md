@@ -1,5 +1,5 @@
 # Space-Invaders
-### Requirement: Installation of Pygame module 
+**Requirement: Installation of Pygame module** 
 ## Game Related: 
 ● A classic, endless runner spaceship game developed using the Pyagame module in Python.  
 ●	The player can move in all four directions -  up, down, left, right.   
